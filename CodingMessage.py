@@ -1,7 +1,7 @@
 
 Message = input("Enter our message =>   ")
 Code = int(input("Enter code number that you want to use =>   "))
-ContextMode = "Enter 1 if you want ecrypt the message and if you want to decrypt the message, enter 2 pls =>   "
+ContextMode = "Enter 1 if you want ecrypt the message and if you want to decrypt the message, enter 2 pls =>  "
 Mode = int(input(ContextMode))
 
 
